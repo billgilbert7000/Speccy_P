@@ -4,6 +4,8 @@ SPECCY P
  I2S звук, PSRAM, HARD/Soft Turbosound 
  режимы  NORMAL / TURBO / FAST
  и так далее
+![photo_2024-10-22_19-43-45](https://github.com/user-attachments/assets/a3ccf7db-5753-448e-acc6-ef78bebc59d1)
+ 
   //=============================================================================
 2024/07/24
 Добавленна одновременная работа USB клавиатуры/мыши через USB OTG 
@@ -141,3 +143,4 @@ ESC exit menus and so on.
 --- the TFT_st7789 firmware has not been tested
 
  //=============================================================================
+
