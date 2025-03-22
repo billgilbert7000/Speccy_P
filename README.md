@@ -1,4 +1,4 @@
-SPECCY P 
+	SPECCY P v1.0.0
 Эмулятор ZX Spectrum
  OTG USB клавиатура и USB мышь + PS/2 клавиатура
  I2S звук, PSRAM 8Mb, HARD/Soft Turbosound 
@@ -19,7 +19,8 @@ SPECCY P ТЕСТОВАЯ ВЕРСИЯ!
  #SpeccyP #Scorpion #Pentagon #cash #pico2 #rp2350 #rp2040
  //=============================================================================
   2025/02/11 v1.0.0
-- SDK 2.1.1 
+- SDK 2.1.1
+  
 [F12] настройки
 [F11] файловое меню / [SPACE] быстрый запуск TDS и SCL файлов
 [F1] Help
