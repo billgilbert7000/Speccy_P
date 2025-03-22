@@ -1,4 +1,4 @@
-	SPECCY P v1.0.0
+	SPECCY P v1.0.0  (ZX Spectrum 128, Pentagon 512, Pentagon 512CASH, Pentagon 1024, Scorpion 256, ScorpionGMX 2048, Navigator 256, MurmoZavr 8Mb)
 Эмулятор ZX Spectrum
  OTG USB клавиатура и USB мышь + PS/2 клавиатура
  I2S звук, PSRAM 8Mb, HARD/Soft Turbosound 
